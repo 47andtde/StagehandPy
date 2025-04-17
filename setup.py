@@ -27,6 +27,5 @@ setup(
         "asyncio>=3.4.3",
         "python-dotenv>=1.0.0",
         "pydantic>=1.10.0",
-        "playwright",
     ],
 )
